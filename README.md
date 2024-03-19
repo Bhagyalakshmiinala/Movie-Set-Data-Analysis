@@ -18,3 +18,14 @@ Original_Language: Original language of the movies. Dubbed version is not consid
 Genre: Categories the movie it can be classified as.
 
 Poster_Url: Url of the movie poster.
+
+
+EDA Questions
+
+Q1: What is the most frequent genre in the dataset?
+
+Q2: What genres has highest votes?
+
+Q3: What movie got the highest popularity? what's its genre?
+
+Q4: Which year has the most filmmed movies?
