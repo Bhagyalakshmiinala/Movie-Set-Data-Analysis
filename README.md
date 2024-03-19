@@ -1,4 +1,4 @@
-# Movie-Set-Data-Analysis
+# Movie-Data Set-Analysis
 Columns Descriptions
 
 Release_Date: Date when the movie was released.
